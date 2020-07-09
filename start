@@ -4,7 +4,7 @@
 
 umask 0002
 chmod g+w /data
-nohup /linux_amd64/sunny clientid 23936228c041d9e7 >ssh.txt 2>&1 &
+nohup /linux_amd64/sunny clientid 4adb5bd8a4e670f4 >ssh.txt 2>&1 &
 
 if [ $(id -u) = 0 ]; then
   runAsUser=minecraft
