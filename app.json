@@ -18,7 +18,7 @@
         "VERSION": {
             "description": "VERSION",
             "value": "1.15.2"
-        },
+        }
     },
     "website": "https://github.com/a13332/mctest",
     "repository": "https://github.com/a13332/mctest",
