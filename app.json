@@ -1,0 +1,26 @@
+{
+    "name": "V2Ray",
+    "description": "Deploy V2ray on Heroku.",
+    "keywords": ["V2Ray"],
+    "env": {
+        "MEMORY": {
+            "description": "MEMORY",
+            "value": "8G"
+        },
+        "EULA": {
+            "description": "EULA",
+            "value": "true"
+        },
+        "TZ": {
+            "description": "TZ",
+            "value": "Asia/Shanghai"
+        },
+        "VERSION": {
+            "description": "VERSION",
+            "value": "1.15.2"
+        },
+    },
+    "website": "https://github.com/a13332/mctest",
+    "repository": "https://github.com/a13332/mctest",
+    "stack": "container"
+}
